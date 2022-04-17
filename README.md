@@ -27,7 +27,7 @@ The PlanMyTrip company requires the data analysis to recommend ideal hotels base
 
 ## **2. Resources**
 Data provided to perform the analysis:
-- [WeatherPy Database](../blob/main/Weather_Database/WeatherPy_Database.csv)
+- [WeatherPy Database](https://github.com/amonjaras/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 
 [:top: Go To Top](#index)
